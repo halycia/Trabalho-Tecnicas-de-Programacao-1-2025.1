@@ -7,7 +7,7 @@ package Telas;
 
 /**
  *
- * @author halyc
+ * @author halycia
  */
 public class PerfilAluno extends javax.swing.JFrame {
     
@@ -78,7 +78,7 @@ public class PerfilAluno extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(jToolBar2, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 489, Short.MAX_VALUE))
+                .addGap(0, 486, Short.MAX_VALUE))
         );
 
         pack();
