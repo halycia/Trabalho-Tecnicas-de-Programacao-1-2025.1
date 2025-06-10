@@ -28,11 +28,11 @@ public class Comentario {
     }
 
     // Metodos
-    public void editar(String novoTexto) {
+    public void editarTexto(String novoTexto) {
         this.texto = novoTexto;
     }
 
-    public void excluir() {
+    public void excluirTexto() {
         // mantem o historico, excluindo somente o texto do comentario em si
         this.texto = "[Comentário excluído]";
     }
